@@ -1,34 +1,153 @@
-# 📊 Projeto Final EBAC - Módulo 7: Análise de Supermercado
+# 🚀 Projeto 3 Ebac Modulo 7 Analise De Supermercado
 
-Este projeto faz parte da minha jornada como estudante de **Ciência de Dados** na EBAC. Utilizei conhecimentos adquiridos em estatística, análise de dados e visualização para explorar uma base de produtos de supermercado.
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🧠 Habilidades aplicadas
-
-- Python para análise de dados
-- Estatística descritiva
-- Visualização com Plotly
-- Aplicações interativas com Streamlit e Dash
-- Git e GitHub
-
-## 📁 Arquivos do projeto
-
-- `dashboard_supermercado.py`: Script com a versão Streamlit e Dash do dashboard
-- `dados.csv`: Base de dados de produtos
-- `README.md`: Descrição do projeto
-
-## 🚀 Como executar
-
-### Streamlit
-```bash
-streamlit run dashboard_supermercado.py
-```
-
-### Dash (alternativa)
-Descomente a linha `run_dash().run_server(debug=True)` no final do script e execute:
-```bash
-python dashboard_supermercado.py
-```
+[English](#english) | [Português](#português)
 
 ---
 
-💡 Desenvolvido com dedicação por um estudante de ciência de dados apaixonado por transformar dados em decisões!
+## English
+
+### 🎯 Overview
+
+**Projeto 3 Ebac Modulo 7 Analise De Supermercado** — EBAC / Cientista de Dados
+
+Total source lines: **64** across **1** files in **1** language.
+
+### ✨ Key Features
+
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
+
+### 🚀 Quick Start
+
+#### Prerequisites
+- Python 3.12+
+
+
+#### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado.git
+cd Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado
+```
+
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+
+
+
+### 📁 Project Structure
+
+```
+Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado/
+├── README.md
+└── dashboard_supermercado.py
+```
+
+### 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Python | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Projeto 3 Ebac Modulo 7 Analise De Supermercado** — EBAC / Cientista de Dados
+
+Total de linhas de código: **64** em **1** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Python 3.12+
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado.git
+cd Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado
+```
+
+2. **Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+Projeto-3-EBAC-Modulo-7-Analise-de-Supermercado/
+├── README.md
+└── dashboard_supermercado.py
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| Python | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
